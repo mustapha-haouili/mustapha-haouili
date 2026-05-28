@@ -33,5 +33,5 @@ Windows Server | Linux | Python | PowerShell | Bash | Docker | Kubernetes | VMwa
 
 ## Connect With Me
 
-* LinkedIn: www.linkedin.com/in/mustapha-haouili-1b5a3b99
+* LinkedIn: www.linkedin.com/in/mustapha-haouili
 * TryHackMe: https://tryhackme.com/p/Haouili
