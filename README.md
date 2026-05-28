@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mustapha Haouili 👋
 
-<!--
-**mustapha-haouili/mustapha-haouili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure Security Architect focused on enterprise infrastructure, cybersecurity, automation, and DevSecOps.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Infrastructure Security
+* Windows & Linux Administration
+* DevSecOps & Automation
+* Ethical Hacking
+* Security Hardening
+* Python & PowerShell Scripting
+* Enterprise Infrastructure Architecture
+* Virtualization & Cloud Technologies
+
+## Current Focus
+
+* Building infrastructure security automation scripts
+* Expanding DevSecOps practices
+* Offensive security learning and labs
+* Secure enterprise infrastructure operations
+
+## Certifications & Achievements
+
+* TryHackMe PT1 (Junior Penetration Tester)
+* Top 2% on TryHackMe
+* EC-Council University — President’s Honors List
+* Microsoft Certified Professional
+
+## Technologies
+
+Windows Server | Linux | Python | PowerShell | Bash | Docker | Kubernetes | VMware
+
+## Connect With Me
+
+* LinkedIn: www.linkedin.com/in/mustapha-haouili-1b5a3b99
+* TryHackMe: https://tryhackme.com/p/Haouili
